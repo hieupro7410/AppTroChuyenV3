@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830891900533",
+    "firebase_url": "https://apptrochuyen-default-rtdb.firebaseio.com",
+    "project_id": "apptrochuyen",
+    "storage_bucket": "apptrochuyen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830891900533:android:5d9563aef0934a67e0423c",
+        "android_client_info": {
+          "package_name": "com.example.apptrochuyenv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830891900533-g9gobeh20j7vdbc7jbrnn2siosa765mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxWROUNSv3N2e9A7UAdXSr5QEwVh8AuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830891900533-g9gobeh20j7vdbc7jbrnn2siosa765mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
